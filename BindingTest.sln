@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.12.35527.113
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BindingTest", "ParameterTest\BindingTest.csproj", "{856933EE-14D6-480A-8033-DA5DFE38AA3C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BindingTest", "BindingTest\BindingTest.csproj", "{ECD5F300-B655-4A3D-BE46-A05D48C0F8E1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{856933EE-14D6-480A-8033-DA5DFE38AA3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{856933EE-14D6-480A-8033-DA5DFE38AA3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{856933EE-14D6-480A-8033-DA5DFE38AA3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{856933EE-14D6-480A-8033-DA5DFE38AA3C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ECD5F300-B655-4A3D-BE46-A05D48C0F8E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECD5F300-B655-4A3D-BE46-A05D48C0F8E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECD5F300-B655-4A3D-BE46-A05D48C0F8E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECD5F300-B655-4A3D-BE46-A05D48C0F8E1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
